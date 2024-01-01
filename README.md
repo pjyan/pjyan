@@ -1,4 +1,6 @@
-### Python enjoyer 👋
+### Hi there 👋
+
+<h3 align="left">Python enjoyer:</h3>
 
 <br>
 <a href="https://github.com/pjyan/pjyan">
@@ -6,6 +8,8 @@
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjyan&hide=Makefile&show_icons=true&locale=en&layout=compact"/>
 </a>
 </br>
+
+<h3 align="left">Readings:</h3>
 
 |Year|Books|
 |-|-|
