@@ -13,3 +13,4 @@
 |Year|Books|
 |-|-|
 |2024|<ul><li>[fluent python, 2nd edition](https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/)</li></ul>|
+|2024|<ul><li>[How Google Tests Software, 1nd edition](https://www.amazon.com/Google-Tests-Software-James-Whittaker/dp/0321803027/)</li></ul>|
